@@ -30,8 +30,27 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoycode&layout=compact&hide=dockerfile,shell&langs_count=7&theme=blueberry&title_color=0cf574&text_color=ffffff&bg_color=09131b&hide_border=true&border_radius=6" />
 </div>
 
+<!-- About me code -->
+
 ## 📝 About me
 
 -  🎓 Currently studying Web Programming, Devices and Mobile Applications at [IPS-ESTS](https://www.estsetubal.ips.pt/)
 -  👨🏻‍💻 Learning JavaScript, HTML, CSS and Java
+
+<!-- Programming Languages and Tools code -->
+
+## 🛠️ Tools and technologies I'm familiar with
+
+### Programming and scripting languages
+
+<p>
+    <img alt="Java" src="https://img.shields.io/badge/»-Java-61DAFB.svg?logo=java&logoColor=white&color=blue&style=plastic">
+    <img alt="Bash" src="https://img.shields.io/badge/»-Bash-121011.svg?logo=gnu-bash&logoColor=white&color=blue">
+    <img alt="CSS" src="https://img.shields.io/badge/»-CSS-1572B6.svg?logo=css3&logoColor=white&color=blue">
+    <img alt="HTML" src="https://img.shields.io/badge/»-HTML-E34F26.svg?logo=html5&logoColor=white&color=blue">
+    <img alt="JavaScript" src="https://img.shields.io/badge/»-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white&color=blue">
+    <img alt="Markdown" src="https://img.shields.io/badge/»-Markdown-000000.svg?logo=markdown&logoColor=white&color=blue">
+    <img alt="Jupyter" src="https://img.shields.io/badge/»-Jupyter-F37626.svg?logo=Jupyter&logoColor=white&color=blue">
+    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-025E8C.svg?logo=database&logoColor=white&color=blue">
+</p>
 
