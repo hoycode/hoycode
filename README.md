@@ -39,18 +39,51 @@
 
 <!-- Programming Languages and Tools code -->
 
-## 🛠️ Tools and technologies I'm familiar with
+## 🛠️ Tools and technologies I already used sometime
 
 ### Programming and scripting languages
 
 <p>
-    <img alt="Java" src="https://img.shields.io/badge/»-Java-007396.svg?logo=java&logoColor=white&color=blue&style=plastic">
-    <img alt="Bash" src="https://img.shields.io/badge/»-Bash-121011.svg?logo=gnu-bash&logoColor=white&color=blue">
-    <img alt="CSS" src="https://img.shields.io/badge/»-CSS-1572B6.svg?logo=css3&logoColor=white&color=blue">
-    <img alt="HTML" src="https://img.shields.io/badge/»-HTML-E34F26.svg?logo=html5&logoColor=white&color=blue">
-    <img alt="JavaScript" src="https://img.shields.io/badge/»-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white&color=blue">
-    <img alt="Markdown" src="https://img.shields.io/badge/»-Markdown-000000.svg?logo=markdown&logoColor=white&color=blue">
-    <img alt="Jupyter" src="https://img.shields.io/badge/»-Jupyter-F37626.svg?logo=Jupyter&logoColor=white&color=blue">
-    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-025E8C.svg?logo=database&logoColor=white&color=blue">
+    <img alt="Java" src="https://img.shields.io/badge/»-Java-007396?logo=java&logoColor=white&color=FA8072">
+    <img alt="HTML" src="https://img.shields.io/badge/»-HTML-E34F26?logo=html5&logoColor=white&color=FA8072">
+    <img alt="CSS" src="https://img.shields.io/badge/»-CSS-1572B6?logo=css3&logoColor=white&color=FA8072">
+    <img alt="JavaScript" src="https://img.shields.io/badge/»-JavaScript-F7DF1E?logo=javascript&logoColor=white&color=FA8072">
+    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-003B57?logo=database&logoColor=white&color=FA8072">
+    <img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/»-PHP-777BB4?logo=php&logoColor=white&color=FA8072">
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/»-C-A8B9CC?logo=c&logoColor=white&color=FA8072">
 </p>
+
+### Frameworks and libraries
+
+<p>
+    <img alt="Express" src="https://img.shields.io/badge/»-Express-000000?logo=express&logoColor=white&color=D2691E">
+    <img alt="WordPress" src="https://img.shields.io/badge/»-Wordpress-21759B?logo=wordpress&logoColor=white&color=D2691E">
+</p>
+
+### Cross-platform runtime environments
+
+<p>
+    <img alt="NodeJS" src="https://img.shields.io/badge/»-Node.js-339933?logo=Node.js&logoColor=white&color=4169E1">
+</p>
+
+### Databases and cloud hosting
+
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/»-MySQL-00f?logo=mysql&logoColor=white&color=DAA520">
+    <img alt="XAMPP" src ="https://img.shields.io/badge/»-XAMPP-FB7A24?logo=xampp&logoColor=white&color=DAA520">
+</p>
+
+<br>
+
+<!-- Techologies used -->
+
+<div align="center">
+  <h4>
+    ⚡ Technologies used in this neat README.md document<p></p>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Readme Typing SVG</a> // 
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a> //
+    <a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank">Github Readme Quotes</a> //
+    <a href="https://shields.io/" target="_blank">Shields.io</a>
+   </h4>
+</div>
 
