@@ -26,8 +26,9 @@
 <div align="center">
   <!-- Stats -->
   <img height="160px" style="margin: 1px 0px 0px 0px;" src="https://github-readme-stats.vercel.app/api?username=hoycode&show_icons=true&theme=tokyonight&show_icons=true" />
+ <br>
   <!-- Programming Languages -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoycode&layout=compact&hide=dockerfile,shell&langs_count=7&theme=tokyonight&" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoycode&layout=compact&hide=dockerfile,shell&langs_count=7&theme=tokyonight" />
 </div>
 
 <!-- About me code -->
