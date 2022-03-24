@@ -45,13 +45,14 @@
 ### Programming and scripting languages
 
 <p>
-    <img alt="Java" src="https://img.shields.io/badge/»-Java-007396?logo=java&logoColor=white&color=FA8072">
-    <img alt="HTML" src="https://img.shields.io/badge/»-HTML-E34F26?logo=html5&logoColor=white&color=FA8072">
-    <img alt="CSS" src="https://img.shields.io/badge/»-CSS-1572B6?logo=css3&logoColor=white&color=FA8072">
-    <img alt="JavaScript" src="https://img.shields.io/badge/»-JavaScript-F7DF1E?logo=javascript&logoColor=white&color=FA8072">
-    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-003B57?logo=database&logoColor=white&color=FA8072">
-    <img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/»-PHP-777BB4?logo=php&logoColor=white&color=FA8072">
-    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/»-C-A8B9CC?logo=c&logoColor=white&color=FA8072">
+    <img alt="Java" src="https://img.shields.io/badge/»-Java-007396?logo=java&logoColor=white&color=b50c00">
+    <img alt="HTML" src="https://img.shields.io/badge/»-HTML-E34F26?logo=html5&logoColor=white&color=b50c00">
+    <img alt="CSS" src="https://img.shields.io/badge/»-CSS-1572B6?logo=css3&logoColor=white&color=b50c00">
+    <img alt="JavaScript" src="https://img.shields.io/badge/»-JavaScript-F7DF1E?logo=javascript&logoColor=white&color=b50c00">
+    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-003B57?logo=database&logoColor=white&color=b50c00">
+    <img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/»-PHP-777BB4?logo=php&logoColor=white&color=b50c00">
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/»-C-A8B9CC?logo=c&logoColor=white&color=b50c00">
+    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/»-C Sharp-239120?logo=csharp&logoColor=white&color=b50c00">
 </p>
 
 ### Frameworks and libraries
