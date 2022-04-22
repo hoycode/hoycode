@@ -4,7 +4,7 @@
   <img align="right" src="https://pageview.vercel.app/?github_user=hoycode" />
   <img align="right" src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" alt="Code Quality" />
   <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Secular+One&size=25&duration=2500&color=61A3DA&background=419CFF00&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8E;My+name+is+Mauro;Nice+to+meet+you!;Lets+code+%F0%9F%92%BB"/>
-  <img src="https://github.com/hoycode/hoycode/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="246px" height="140" align="right" alt="Web-developer"> 
+  <!--<img src="https://github.com/hoycode/hoycode/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="246px" height="140" align="right" alt="Web-developer"> --> 
 </div>
 
 <br>
