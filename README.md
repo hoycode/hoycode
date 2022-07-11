@@ -61,6 +61,8 @@
 <p>
     <img alt="Express" src="https://img.shields.io/badge/»-Express-000000?logo=express&logoColor=white&color=D2691E">
     <img alt="WordPress" src="https://img.shields.io/badge/»-Wordpress-21759B?logo=wordpress&logoColor=white&color=D2691E">
+    <img alt="jQuery" src="https://img.shields.io/badge/»-jQuery-000000?logo=express&logoColor=white&color=D2691E">
+
 </p>
 
 ### Cross-platform runtime environments
