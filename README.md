@@ -36,7 +36,7 @@
 
 ## 📝 About me
 
--  🎓 Currently studying Web Programming, Devices and Mobile Applications at [IPS-ESTS](https://www.estsetubal.ips.pt/)
+-  🎓 Currently taking a bachelor in Computer Science at [IPS-ESTS](https://www.estsetubal.ips.pt/)
 -  👨🏻‍💻 Learning JavaScript, HTML, CSS and Java
 
 <!-- Programming Languages and Tools code -->
