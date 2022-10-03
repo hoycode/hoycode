@@ -1,5 +1,5 @@
 <!-- Code for Text and Badges -->
-<img src="https://camo.githubusercontent.com/7ad857ee593e55464de26d3b5b8800566930c3bbfb684311ffa21b8e033a4484/68747470733a2f2f6e696b6f746f6d61642e6769746875622e696f2f6d61747269782d7261696e2f707265766965772e676966" alt="matrix" width="100%;"/>
+<img src="https://data.whicdn.com/images/260776147/original.gif" alt="matrix" width="100%"/>
 <div align="center">
   <img align="right" src="https://pageview.vercel.app/?github_user=hoycode" />
   <img align="right" src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" alt="Code Quality" />
