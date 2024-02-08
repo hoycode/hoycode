@@ -3,7 +3,7 @@
 <div align="center">
   <img align="right" src="https://pageview.vercel.app/?github_user=hoycode" />
   <img align="right" src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" alt="Code Quality" />
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Secular+One&size=25&duration=2500&color=61A3DA&background=419CFF00&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8E;My+name+is+Mauro;Nice+to+meet+you!;Lets+code+%F0%9F%92%BB"/>
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Secular+One&size=25&duration=2500&color=61A3DA&background=419CFF00&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8E;My+is+Mauro;Nice+to+meet+you!;Lets+code+%F0%9F%92%BB"/>
   <!--<img src="https://github.com/hoycode/hoycode/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="246px" height="140" align="right" alt="Web-developer"> --> 
 </div>
 
@@ -36,8 +36,8 @@
 
 ## 📝 About me
 
--  🎓 Currently taking a bachelor in Computer Science at [IPS-ESTS](https://www.estsetubal.ips.pt/)
--  👨🏻‍💻 Learning JavaScript, HTML, CSS and Java
+-  🎓 I'm currently finishing my degree in Computer Engineering at [IPS-ESTS](https://www.estsetubal.ips.pt/)
+-  👨🏻‍💻 I'm currently learning Python, Java, SpringBoot MVC
 
 <!-- Programming Languages and Tools code -->
 
@@ -45,38 +45,42 @@
 
 ### Programming and scripting languages
 
-<p>
-    <img alt="Java" src="https://img.shields.io/badge/»-Java-007396?logo=java&logoColor=white&color=b50c00">
-    <img alt="HTML" src="https://img.shields.io/badge/»-HTML-E34F26?logo=html5&logoColor=white&color=b50c00">
-    <img alt="CSS" src="https://img.shields.io/badge/»-CSS-1572B6?logo=css3&logoColor=white&color=b50c00">
-    <img alt="JavaScript" src="https://img.shields.io/badge/»-JavaScript-F7DF1E?logo=javascript&logoColor=white&color=b50c00">
-    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-003B57?logo=database&logoColor=white&color=b50c00">
-    <img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/»-PHP-777BB4?logo=php&logoColor=white&color=b50c00">
-    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/»-C-A8B9CC?logo=c&logoColor=white&color=b50c00">
-    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/»-C Sharp-239120?logo=csharp&logoColor=white&color=b50c00">
-</p>
 
+  
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <!-- C Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40" />   <!-- C# Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40" />     <!-- Java Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40" />     <!-- HTML5 Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40" />     <!-- CSS3 Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />     <!-- JavaScript Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" />  <!-- PHP Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="py" width="40" height="40" />   <!-- Python Language -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40" />  <!-- SQL Language -->
+          
+
+
+### Tools & IDEs
+
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />  <!-- Arduino --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40" /> <!-- Microsoft SQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> <!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" /> <!-- PyCharm -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="mstudio" width="40" height="40" /> <!-- Visual Studio -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" /> <!-- IntelliJ-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /> <!-- IntelliJ-->
+          
+ 
 ### Frameworks and libraries
 
-<p>
-    <img alt="Express" src="https://img.shields.io/badge/»-Express-000000?logo=express&logoColor=white&color=D2691E">
-    <img alt="WordPress" src="https://img.shields.io/badge/»-Wordpress-21759B?logo=wordpress&logoColor=white&color=D2691E">
-    <img alt="jQuery" src="https://img.shields.io/badge/»-jQuery-000000?logo=jquery&logoColor=white&color=D2691E">
-
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40" /> <!-- Express -->
+          
 
 ### Cross-platform runtime environments
 
-<p>
-    <img alt="NodeJS" src="https://img.shields.io/badge/»-Node.js-339933?logo=Node.js&logoColor=white&color=4169E1">
-</p>
 
-### Databases and cloud hosting
-
-<p>
-    <img alt="MySQL" src="https://img.shields.io/badge/»-MySQL-00f?logo=mysql&logoColor=white&color=DAA520">
-    <img alt="XAMPP" src ="https://img.shields.io/badge/»-XAMPP-FB7A24?logo=xampp&logoColor=white&color=DAA520">
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /> <!-- Nodejs -->
+          
 
 <br>
 
