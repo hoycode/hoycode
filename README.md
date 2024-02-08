@@ -92,7 +92,9 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Readme Typing SVG</a> // 
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a> //
     <!-- <a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank">Github Readme Quotes</a> // -->
-    <a href="https://shields.io/" target="_blank">Shields.io</a>
+    <a href="https://shields.io/" target="_blank">Shields.io</a> //
+    <a href="https://devicon.dev/" target="_blank">Devicon.dev</a>
+    
    </h4>
 </div>
 
