@@ -37,7 +37,7 @@
 ## 📝 About me
 
 -  🎓 I'm currently finishing my degree in Computer Engineering at [IPS-ESTS](https://www.estsetubal.ips.pt/)
--  👨🏻‍💻 I'm currently learning Python, Java, SpringBoot MVC
+-  👨🏻‍💻 I'm currently learning Python, Java, SpringBoot MVC, Cybersecurity concepts
 
 <!-- Programming Languages and Tools code -->
 
